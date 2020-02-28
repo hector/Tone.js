@@ -1,8 +1,9 @@
 {
   "name": "tone",
-  "version": "13.8.0",
+  "version": "13.8.26",
   "description": "A Web Audio framework for making interactive music in the browser.",
   "main": "build/Tone.js",
+  "typings": "tone.d.ts",
   "files": [
     "README.md",
     "LICENSE.md",
